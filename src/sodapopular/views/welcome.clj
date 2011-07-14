@@ -1,6 +1,5 @@
 (ns sodapopular.views.welcome
-  (:require [sodapopular.views.common :as common]
-            [noir.content.pages :as pages])
+  (:require [sodapopular.views.common :as common])
   (use noir.core
        hiccup.core
        hiccup.page-helpers))
