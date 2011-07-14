@@ -6,5 +6,5 @@
 
 (defpage "/welcome" []
     (common/layout
-        [:h1 "Welcome to SodaPopulist"]
+        [:h1 "Welcome to SodaPopular"]
         [:p "Prepare for the democratization of pop distribution"))
