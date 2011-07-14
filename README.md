@@ -1,17 +1,13 @@
 # sodapopular
 
-A website written in noir. 
+Democratic Beverage Apportionment
 
 ## Usage
 
-```bash
-lein deps
-lein run
-```
+I'll let you know when I figure it out.
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Jason Addington
 
 Distributed under the Eclipse Public License, the same as Clojure.
-
