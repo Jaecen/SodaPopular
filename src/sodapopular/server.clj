@@ -5,7 +5,7 @@
 
 (defn -main [& m]
   (let [mode (keyword (or (first m) :dev))
-        port 8080]
+        port (Integer/parseInt (System/getenv "PORT"))]
     (server/start port {:mode mode
                         :ns 'sodapopular})))
 
